@@ -10,7 +10,7 @@ The projects demonstrate how digital tools can be used to manage tasks, coordina
 ### 🔗 Quick Access
 
 - 📋 [Administrative Task Tracker](./Administrative_Task_Tracker%20I.xlsx)
-- 📅 [Meeting & Calendar Management System](./Meeting_and_Calendar_Management.xlsx)
+- 📅 [Meeting & Calendar Management System](./Meeting_and_Calendar_Management_System.xlsx)
 - 📁 [Digital Records Management System](./Digital_Records_Management_System.xlsx)
 - 📊 [Administrative Reporting Dashboard](./Administrative_Reporting_Dashboard.xlsx)
 
