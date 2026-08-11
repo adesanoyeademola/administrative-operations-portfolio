@@ -7,6 +7,14 @@ This repository showcases practical administrative systems designed to support o
 The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, maintain digital records, prepare administrative reports, and support day-to-day operations.
 
 ## 📁 Portfolio Projects
+### 🔗 Quick Access
+
+- 📋 [Administrative Task Tracker](./Administrative_Task_Tracker%20I.xlsx)
+- 📅 [Meeting & Calendar Management System](./Meeting_and_Calendar_Management.xlsx)
+- 📁 [Digital Records Management System](./Digital_Records_Management_System.xlsx)
+- 📊 [Administrative Reporting Dashboard](./Administrative_Reporting_Dashboard.xlsx)
+
+---
 
 ### 1. 📋 Administrative Task Tracker
 
