@@ -2,9 +2,9 @@
 
 ## 📋 About This Repository
 
-This repository showcases practical administrative systems designed to support organized, efficient, and well-coordinated business operations.
+This repository showcases practical administrative operations projects designed to demonstrate my ability to organize information, manage administrative tasks, coordinate meetings and calendars, maintain digital records, and prepare administrative reports.
 
-The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, maintain digital records, prepare administrative reports, and support day-to-day operations.
+The projects reflect real-world administrative workflows and highlight my ability to use digital tools to improve organization, accuracy, productivity, and day-to-day operational efficiency.
 
 ## 📁 Portfolio Projects
 ### 🔗 Quick Access
@@ -148,7 +148,7 @@ These projects demonstrate my ability to:
 
 ## 📊 Portfolio Purpose
 
-These projects are practical demonstrations created to showcase administrative operations and virtual support capabilities.
+These projects are practical demonstrations created to showcase my administrative operations and virtual support capabilities.
 
 All names, dates, meetings, tasks, documents, figures, and records used in the projects are fictional and are provided for portfolio demonstration purposes only.
 
