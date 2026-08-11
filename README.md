@@ -4,7 +4,7 @@
 
 This repository showcases practical administrative systems designed to support organized, efficient, and well-coordinated business operations.
 
-The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, maintain digital records, and support day-to-day administrative operations.
+The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, maintain digital records, prepare administrative reports, and support day-to-day operations.
 
 ## 📁 Portfolio Projects
 
@@ -83,6 +83,34 @@ A structured digital document register designed to help organizations organize, 
 - Administrative Record Keeping
 - Attention to Detail
 
+---
+
+### 4. 📊 Administrative Reporting Dashboard
+
+A management-friendly reporting dashboard designed to organize administrative activity data and present key operational information in a clear and useful format.
+
+**Key features:**
+- Monthly administrative activity tracking
+- Documents processed
+- Emails handled
+- Meetings scheduled
+- Records filed
+- Customer enquiries
+- Tasks completed
+- Monthly performance summary
+- Key performance indicators
+- Activity charts and trend reporting
+
+**Skills demonstrated:**
+- Administrative Reporting
+- Data Organization
+- Performance Tracking
+- Data Analysis
+- Excel Dashboard Creation
+- KPI Monitoring
+- Operational Reporting
+- Data Presentation
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
@@ -92,6 +120,8 @@ A structured digital document register designed to help organizations organize, 
 - Data Validation
 - Filtering
 - Conditional Formatting
+- Charts & Dashboard Design
+- Basic Data Analysis
 
 ## 💼 Administrative Capabilities Demonstrated
 
@@ -102,7 +132,9 @@ These projects demonstrate my ability to:
 - Track tasks, deadlines, and follow-ups
 - Maintain structured digital records
 - Organize and classify business documents
+- Prepare administrative reports
 - Monitor workflow and task progress
+- Present operational information clearly
 - Support effective day-to-day operations
 - Use digital tools to improve administrative organization
 
@@ -110,8 +142,8 @@ These projects demonstrate my ability to:
 
 These projects are practical demonstrations created to showcase administrative operations and virtual support capabilities.
 
-All names, dates, meetings, tasks, documents, and records used in the projects are fictional and are provided for portfolio demonstration purposes only.
+All names, dates, meetings, tasks, documents, figures, and records used in the projects are fictional and are provided for portfolio demonstration purposes only.
 
 ## 👤 About Me
 
-I provide administrative operations and virtual support to help businesses and professionals stay organized, productive, and on track through reliable coordination, documentation, task management, meeting support, records management, and day-to-day administrative assistance.
+I provide administrative operations and virtual support to help businesses and professionals stay organized, productive, and on track through reliable coordination, documentation, task management, meeting support, records management, reporting, and day-to-day administrative assistance.
