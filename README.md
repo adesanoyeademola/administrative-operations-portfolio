@@ -4,7 +4,7 @@
 
 This repository showcases practical administrative systems designed to support organized, efficient, and well-coordinated business operations.
 
-The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, and maintain administrative records.
+The projects demonstrate how digital tools can be used to manage tasks, coordinate meetings, organize information, monitor deadlines, maintain digital records, and support day-to-day administrative operations.
 
 ## 📁 Portfolio Projects
 
@@ -55,6 +55,34 @@ A structured meeting management system designed to support meeting scheduling, a
 - Communication Coordination
 - Follow-Up Management
 
+---
+
+### 3. 📁 Digital Records Management System
+
+A structured digital document register designed to help organizations organize, locate, monitor, and review business records efficiently.
+
+**Key features:**
+- Document identification
+- Document categorization
+- Department tracking
+- Date created
+- File format tracking
+- Storage location
+- Access-level tracking
+- Document status
+- Review dates
+- Notes and follow-up information
+
+**Skills demonstrated:**
+- Digital Records Management
+- Document Organization
+- Data Accuracy
+- File Classification
+- Access-Level Tracking
+- Document Review Management
+- Administrative Record Keeping
+- Attention to Detail
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
@@ -73,6 +101,7 @@ These projects demonstrate my ability to:
 - Coordinate meetings and schedules
 - Track tasks, deadlines, and follow-ups
 - Maintain structured digital records
+- Organize and classify business documents
 - Monitor workflow and task progress
 - Support effective day-to-day operations
 - Use digital tools to improve administrative organization
@@ -81,8 +110,8 @@ These projects demonstrate my ability to:
 
 These projects are practical demonstrations created to showcase administrative operations and virtual support capabilities.
 
-All names, dates, meetings, tasks, and records used in the projects are fictional and are provided for portfolio demonstration purposes only.
+All names, dates, meetings, tasks, documents, and records used in the projects are fictional and are provided for portfolio demonstration purposes only.
 
 ## 👤 About Me
 
-I provide administrative and virtual support to help businesses and professionals stay organized, productive, and on track through reliable coordination, documentation, task management, meeting support, and day-to-day administrative assistance.
+I provide administrative operations and virtual support to help businesses and professionals stay organized, productive, and on track through reliable coordination, documentation, task management, meeting support, records management, and day-to-day administrative assistance.
