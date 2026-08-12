@@ -154,4 +154,4 @@ All names, dates, meetings, tasks, documents, figures, and records used in the p
 
 ## 👤 About Me
 
-I provide administrative operations and virtual support to help businesses and professionals stay organized, productive, and on track through reliable coordination, documentation, task management, meeting support, records management, reporting, and day-to-day administrative assistance.
+I provide administrative, operations and virtual support to help businesses and professionals stay organised, productive, and on track through reliable coordination, documentation, task management, meeting support, records management, reporting, and day-to-day administrative assistance.
