@@ -1,8 +1,8 @@
-# Administrative Operations Portfolio
+# Administrative & Operations Support Portfolio
 
 ## 📋 About This Repository
 
-This repository showcases practical administrative operations projects designed to demonstrate my ability to organize information, manage administrative tasks, coordinate meetings and calendars, maintain digital records, and prepare administrative reports.
+This repository showcases practical administrative & operations projects designed to demonstrate my ability to organise information, manage administrative tasks, coordinate meetings and calendars, maintain digital records, and prepare administrative reports.
 
 The projects reflect real-world administrative workflows and highlight my ability to use digital tools to improve organization, accuracy, productivity, and day-to-day operational efficiency.
 
